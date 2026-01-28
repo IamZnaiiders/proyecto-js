@@ -25,5 +25,10 @@ console.log(pares)
 let colores =["amarillo","verde","rojo"];
 colores.forEach(function(color){
     console.log(color.toUpperCase())
+   
 });
 
+let nombres =["Ana","Luis","Carla"];
+nombres.forEach(function(name){
+    console.log("Hola, ", name)
+});
