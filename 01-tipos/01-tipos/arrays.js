@@ -21,7 +21,9 @@ console.log(pares)
 
  */
 
-//imprime los colores
+
+/**
+ * //imprime los colores
 let colores =["amarillo","verde","rojo"];
 colores.forEach(function(color){
     console.log(color.toUpperCase())
@@ -31,4 +33,18 @@ colores.forEach(function(color){
 let nombres =["Ana","Luis","Carla"];
 nombres.forEach(function(name){
     console.log("Hola, ", name)
+});
+
+ * 
+ */
+
+
+//suma de numeros
+let suma = 0
+let numeros =[1,2,3,4,5]
+
+numeros.forEach(function(valor){
+    suma +=valor
+   if(suma===15)
+    console.log(suma)
 });
