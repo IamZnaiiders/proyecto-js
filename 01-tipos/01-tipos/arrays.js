@@ -24,6 +24,6 @@ console.log(pares)
 //imprime los colores
 let colores =["amarillo","verde","rojo"];
 colores.forEach(function(color){
-    console.log(color)
+    console.log(color.toUpperCase())
 });
 
