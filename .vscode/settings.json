@@ -1,0 +1,14 @@
+{
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 22,
+  "editor.renderWhitespace": "all",
+  "editor.minimap.enabled": false,
+  "editor.smoothScrolling": true,
+  "workbench.startupEditor": "none",
+
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true
+}
